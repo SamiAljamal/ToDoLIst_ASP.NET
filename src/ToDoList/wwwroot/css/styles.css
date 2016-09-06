@@ -1,0 +1,11 @@
+﻿body {
+    background-color: black;
+    color: red;
+}
+a {
+    color: green;
+}
+
+.check-box > a {
+    text-decoration: none;
+}
